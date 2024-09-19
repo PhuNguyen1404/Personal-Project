@@ -1,0 +1,145 @@
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\HostApp.exe.config
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\HostApp.exe
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\HostApp.pdb
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\HostApp.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\FullCreatedProgramWindow.g.cs
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\MainWindow.g.cs
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\App.g.cs
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\HostApp_MarkupCompile.cache
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\HostApp_MarkupCompile.lref
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\FullCreatedProgramWindow.baml
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\MainWindow.baml
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\HostApp.g.resources
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\HostApp.Properties.Resources.resources
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\HostApp.csproj.GenerateResource.cache
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\HostApp.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\HostApp.exe
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\HostApp.pdb
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\AddCounterRule.dll
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\AddPrefixRule.dll
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\AddSuffixRule.dll
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\ChangeExtensionRule.dll
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\PascalCaseRule.dll
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\RemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\ReplaceRule.dll
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\AddCounterRule.pdb
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\AddPrefixRule.pdb
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\AddSuffixRule.pdb
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\ChangeExtensionRule.pdb
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\PascalCaseRule.pdb
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\RemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\BatchRename\HostApp\bin\Debug\ReplaceRule.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\HostApp.exe.config
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\HostApp.exe
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\HostApp.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\AddCounterRule.dll
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\AddPrefixRule.dll
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\AddSuffixRule.dll
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\ChangeExtensionRule.dll
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\IContract.dll
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\PascalCaseRule.dll
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\ReplaceRule.dll
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\IContract.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\AddCounterRule.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\AddPrefixRule.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\AddSuffixRule.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\PascalCaseRule.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\bin\Debug\ReplaceRule.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\FullCreatedProgramWindow.g.cs
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\HostApp_MarkupCompile.cache
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\HostApp_MarkupCompile.lref
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\FullCreatedProgramWindow.baml
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\HostApp.g.resources
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\HostApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\HostApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\HostApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\HostApp.csproj.CopyComplete
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\HostApp.exe
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\HostApp.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\HostApp.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\HostApp.exe
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\HostApp.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\AddCounterRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\AddPrefixRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\AddSuffixRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\ChangeExtensionRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\IContract.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\PascalCaseRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\ReplaceRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\IContract.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\AddCounterRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\AddPrefixRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\AddSuffixRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\PascalCaseRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\bin\Debug\ReplaceRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\HostApp.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\FullCreatedProgramWindow.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\App.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\HostApp_MarkupCompile.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\HostApp_MarkupCompile.lref
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\FullCreatedProgramWindow.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\MainWindow.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\HostApp.g.resources
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\HostApp.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\HostApp.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\HostApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\HostApp.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\HostApp.exe
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\BatchRename\HostApp\obj\Debug\HostApp.pdb
+C:\Users\Admin\Desktop\BatchRename\HostApp\obj\Debug\HostApp.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\BatchRename\HostApp\obj\Debug\HostApp.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\HostApp.exe.config
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\HostApp.exe
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\HostApp.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\AddCounterRule.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\AddPrefixRule.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\AddSuffixRule.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\ChangeExtensionRule.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\PascalCaseRule.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\ReplaceRule.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\AddCounterRule.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\AddPrefixRule.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\AddSuffixRule.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\PascalCaseRule.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\bin\Debug\ReplaceRule.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\FullCreatedProgramWindow.g.cs
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\MainWindow.g.cs
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\App.g.cs
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp_MarkupCompile.cache
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp_MarkupCompile.lref
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\FullCreatedProgramWindow.baml
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\MainWindow.baml
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp.g.resources
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp.exe
+C:\Users\ADMIN\Downloads\Project\BatchRename\HostApp\obj\Debug\HostApp.pdb

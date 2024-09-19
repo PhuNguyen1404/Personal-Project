@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rules>
+  <Rule>Change extension to "txt"</Rule>
+  <Rule>Add counter with Roman format</Rule>
+  <Rule>Remove all spaces</Rule>
+  <Rule>Lowercase all characters and remove all spaces</Rule>
+  <Rule>Add prefix "haha"</Rule>
+  <Rule>Add suffix "hihi"</Rule>
+  <Rule>Convert to PascalCase</Rule>
+  <Rule>Replace "facebook" -► "google"</Rule>
+</Rules>

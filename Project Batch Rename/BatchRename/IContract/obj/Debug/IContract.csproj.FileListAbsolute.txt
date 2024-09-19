@@ -1,0 +1,18 @@
+D:\Project năm 2 hk1\BatchRename\IContract\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\BatchRename\IContract\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\BatchRename\IContract\obj\Debug\IContract.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\BatchRename\IContract\obj\Debug\IContract.dll
+D:\Project năm 2 hk1\BatchRename\IContract\obj\Debug\IContract.pdb
+C:\Users\Admin\Desktop\BatchRename\IContract\bin\Debug\IContract.dll
+C:\Users\Admin\Desktop\BatchRename\IContract\bin\Debug\IContract.pdb
+C:\Users\Admin\Desktop\BatchRename\IContract\obj\Debug\IContract.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BatchRename\IContract\obj\Debug\IContract.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BatchRename\IContract\obj\Debug\IContract.dll
+C:\Users\Admin\Desktop\BatchRename\IContract\obj\Debug\IContract.pdb
+D:\Project năm 2 hk1\BatchRename\IContract\obj\Debug\IContract.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\BatchRename\IContract\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\IContract\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\BatchRename\IContract\obj\Debug\IContract.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\BatchRename\IContract\obj\Debug\IContract.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\BatchRename\IContract\obj\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\BatchRename\IContract\obj\Debug\IContract.pdb

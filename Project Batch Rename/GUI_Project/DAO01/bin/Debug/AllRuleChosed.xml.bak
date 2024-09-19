@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rules>
+	<Rule>Change extension rule</Rule>
+	<Rule>Add counter rule</Rule>
+	<Rule>Remove all spaces rule</Rule>
+	<Rule>Replace rule</Rule>
+	<Rule>Add prefix</Rule>
+	<Rule>Add suffix</Rule>
+	<Rule>Lowercase all characters and remove all spaces</Rule>
+	<Rule>Convert to PascalCase</Rule>
+</Rules>
+

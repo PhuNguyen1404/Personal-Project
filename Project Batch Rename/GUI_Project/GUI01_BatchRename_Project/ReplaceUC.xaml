@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="GUI01_BatchRename_Project.ReplaceUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GUI01_BatchRename_Project"
+             mc:Ignorable="d" 
+             d:DesignHeight="380" d:DesignWidth="392">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock HorizontalAlignment="Center" Text="Find needles: " FontSize="25" Margin="0,10,0,0" FontWeight="Bold"/>
+            <TextBox x:Name="needlesTextbox" BorderBrush="#FF3D3535" Width="300" MaxLength="254" FontSize="25" Height="35" TextChanged="needlesTextbox_TextChanged" PreviewTextInput="needlesTextbox_PreviewTextInput"/>
+            <TextBlock HorizontalAlignment="Center" Text="Characters Replace: " FontSize="25" Margin="0,10,0,0" FontWeight="Bold"/>
+            <TextBox x:Name="replacementTextbox" BorderBrush="#FF3D3535" MaxLength="254" FontSize="25" Width="300" Height="35" TextChanged="replacementTextbox_TextChanged" PreviewTextInput="replacementTextbox_PreviewTextInput"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" Margin="20,10,20,0">
+            <TextBlock Text="*Example:" FontWeight="Bold" FontSize="22"/>
+            <Label Content="Needles: Facebook" FontSize="18"/>
+            <Label Content="Replacement: Google" FontSize="18"/>
+            <Label Content="Result: dataFacebook -> dataGoogle" FontSize="18"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

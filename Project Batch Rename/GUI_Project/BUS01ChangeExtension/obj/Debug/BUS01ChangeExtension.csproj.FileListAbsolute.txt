@@ -1,0 +1,100 @@
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\BUS01ChangeExtension.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\BUS01ChangeExtension.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\AddCounterRule.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\AddPrefixRule.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\AddSuffixRule.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\ChangeExtensionRule.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\PascalCaseRule.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\RemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\ReplaceRule.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\AddCounterRule.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\AddPrefixRule.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\AddSuffixRule.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\ChangeExtensionRule.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\PascalCaseRule.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\RemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\bin\Debug\ReplaceRule.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.dll
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\BUS01ChangeExtension.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\BUS01ChangeExtension.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\AddCounterRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\AddPrefixRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\AddSuffixRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\ChangeExtensionRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\IContract.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\PascalCaseRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\ReplaceRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\AddCounterRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\AddPrefixRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\AddSuffixRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\IContract.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\PascalCaseRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\bin\Debug\ReplaceRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.pdb
+D:\Project năm 2 hk1\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.CopyComplete
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\BUS01ChangeExtension.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\BUS01ChangeExtension.pdb
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\AddCounterRule.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\AddPrefixRule.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\AddSuffixRule.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\ChangeExtensionRule.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\IContract.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\PascalCaseRule.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\ReplaceRule.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\AddCounterRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\AddPrefixRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\AddSuffixRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\IContract.pdb
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\PascalCaseRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\bin\Debug\ReplaceRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.CopyComplete
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.dll
+C:\Users\Admin\Desktop\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\BUS01ChangeExtension.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\BUS01ChangeExtension.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\AddCounterRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\AddPrefixRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\AddSuffixRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\ChangeExtensionRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\PascalCaseRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\ReplaceRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\AddCounterRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\AddPrefixRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\AddSuffixRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\PascalCaseRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\bin\Debug\ReplaceRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\BUS01ChangeExtension\obj\Debug\BUS01ChangeExtension.pdb

@@ -1,0 +1,18 @@
+D:\Project năm 2 hk1\AllRuleRename\AddCounterRule\bin\Debug\AddCounterRule.dll
+D:\Project năm 2 hk1\AllRuleRename\AddCounterRule\bin\Debug\AddCounterRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\AddCounterRule\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\AllRuleRename\AddCounterRule\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\AllRuleRename\AddCounterRule\obj\Debug\AddCounterRule.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\AllRuleRename\AddCounterRule\obj\Debug\AddCounterRule.dll
+D:\Project năm 2 hk1\AllRuleRename\AddCounterRule\obj\Debug\AddCounterRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\AddCounterRule\obj\Debug\AddCounterRule.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\AllRuleRename\AddCounterRule\obj\Debug\AddCounterRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddCounterRule\bin\Debug\AddCounterRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddCounterRule\bin\Debug\AddCounterRule.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddCounterRule\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddCounterRule\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddCounterRule\obj\Debug\AddCounterRule.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddCounterRule\obj\Debug\AddCounterRule.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddCounterRule\obj\Debug\AddCounterRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddCounterRule\obj\Debug\AddCounterRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddCounterRule\obj\Debug\AddCounterRule.pdb

@@ -1,0 +1,75 @@
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\DAO01.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\DAO01.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\obj\Debug\DAO01.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\GUI_Project\DAO01\obj\Debug\DAO01.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\GUI_Project\DAO01\obj\Debug\DAO01.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\obj\Debug\DAO01.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\AddCounterRule.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\AddPrefixRule.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\AddSuffixRule.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\ChangeExtensionRule.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\PascalCaseRule.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\RemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\ReplaceRule.dll
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\AddCounterRule.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\AddPrefixRule.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\AddSuffixRule.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\ChangeExtensionRule.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\PascalCaseRule.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\RemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\bin\Debug\ReplaceRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\DAO01.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\DAO01.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\AddCounterRule.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\AddPrefixRule.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\AddSuffixRule.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\ChangeExtensionRule.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\IContract.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\PascalCaseRule.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\ReplaceRule.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\AddCounterRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\AddPrefixRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\AddSuffixRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\IContract.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\PascalCaseRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\bin\Debug\ReplaceRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\DAO01\obj\Debug\DAO01.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\GUI_Project\DAO01\obj\Debug\DAO01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GUI_Project\DAO01\obj\Debug\DAO01.csproj.CopyComplete
+C:\Users\Admin\Desktop\GUI_Project\DAO01\obj\Debug\DAO01.dll
+C:\Users\Admin\Desktop\GUI_Project\DAO01\obj\Debug\DAO01.pdb
+D:\Project năm 2 hk1\GUI_Project\DAO01\obj\Debug\DAO01.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\DAO01.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\DAO01.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\AddCounterRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\AddPrefixRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\AddSuffixRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\ChangeExtensionRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\PascalCaseRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\ReplaceRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\AddCounterRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\AddPrefixRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\AddSuffixRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\PascalCaseRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\bin\Debug\ReplaceRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\obj\Debug\DAO01.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\obj\Debug\DAO01.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\obj\Debug\DAO01.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\obj\Debug\DAO01.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\DAO01\obj\Debug\DAO01.pdb

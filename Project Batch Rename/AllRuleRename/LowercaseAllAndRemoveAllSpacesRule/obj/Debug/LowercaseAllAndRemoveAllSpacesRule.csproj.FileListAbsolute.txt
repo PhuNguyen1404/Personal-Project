@@ -1,0 +1,18 @@
+D:\Project năm 2 hk1\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\obj\Debug\LowercaseAllAndRemoveAllSpacesRule.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\obj\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\obj\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\obj\Debug\LowercaseAllAndRemoveAllSpacesRule.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\obj\Debug\LowercaseAllAndRemoveAllSpacesRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\obj\Debug\LowercaseAllAndRemoveAllSpacesRule.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\obj\Debug\LowercaseAllAndRemoveAllSpacesRule.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\obj\Debug\LowercaseAllAndRemoveAllSpacesRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\obj\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\LowercaseAllAndRemoveAllSpacesRule\obj\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb

@@ -1,0 +1,240 @@
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\GUI01_BatchRename_Project.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\GUI01_BatchRename_Project.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddCounterRule.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddPrefixRule.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddSuffixRule.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ChangeExtensionRule.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\IContract.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\PascalCaseRule.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ReplaceRule.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddCounterRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddPrefixRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddSuffixRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.xml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\IContract.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\PascalCaseRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ReplaceRule.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddCounterUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddPrefixUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddSuffixUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ChangeExtensionUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ListOfRuleUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LowercaseAllAndRemoveAllSpacesUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PascalCaseUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\RemoveAllSpacesUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ReplaceUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project_MarkupCompile.cache
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project_MarkupCompile.lref
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddCounterUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddPrefixUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddSuffixUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ChangeExtensionUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ListOfRuleUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LowercaseAllAndRemoveAllSpacesUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PascalCaseUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\RemoveAllSpacesUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ReplaceUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.g.resources
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.csproj.CopyComplete
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.dll
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\GUI01_BatchRename_Project.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\GUI01_BatchRename_Project.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddCounterRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddPrefixRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddSuffixRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ChangeExtensionRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\IContract.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\PascalCaseRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ReplaceRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddCounterRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddPrefixRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddSuffixRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.xml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\IContract.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\PascalCaseRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ReplaceRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddCounterUC.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddPrefixUC.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddSuffixUC.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ChangeExtensionUC.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ListOfRuleUC.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LowercaseAllAndRemoveAllSpacesUC.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PascalCaseUC.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\RemoveAllSpacesUC.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ReplaceUC.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project_MarkupCompile.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project_MarkupCompile.lref
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddCounterUC.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddPrefixUC.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddSuffixUC.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ChangeExtensionUC.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ListOfRuleUC.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LowercaseAllAndRemoveAllSpacesUC.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PascalCaseUC.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\RemoveAllSpacesUC.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ReplaceUC.baml
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.g.resources
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.pdb
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\EditRuleUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\EditRuleUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\GUI01_BatchRename_Project.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\GUI01_BatchRename_Project.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddCounterRule.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddPrefixRule.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddSuffixRule.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ChangeExtensionRule.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\PascalCaseRule.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\RemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ReplaceRule.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddCounterRule.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddPrefixRule.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddSuffixRule.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ChangeExtensionRule.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.xml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\PascalCaseRule.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\RemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ReplaceRule.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddCounterUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddPrefixUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddSuffixUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ChangeExtensionUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\EditRuleUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ListOfRuleUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LowercaseAllAndRemoveAllSpacesUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PascalCaseUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\RemoveAllSpacesUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ReplaceUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project_MarkupCompile.cache
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project_MarkupCompile.lref
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddCounterUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddPrefixUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddSuffixUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ChangeExtensionUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\EditRuleUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ListOfRuleUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LowercaseAllAndRemoveAllSpacesUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PascalCaseUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\RemoveAllSpacesUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ReplaceUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.g.resources
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.dll
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.pdb
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\SavePresetUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\SavePresetUC.baml
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LoadPresetUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LoadPresetUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LoadPresetUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\SavePresetUC.g.cs
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LoadPresetUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\SavePresetUC.baml
+C:\Users\Admin\Desktop\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PreviewUC.g.cs
+D:\Project năm 2 hk1\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PreviewUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\GUI01_BatchRename_Project.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\GUI01_BatchRename_Project.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddCounterRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddPrefixRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddSuffixRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ChangeExtensionRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\PascalCaseRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ReplaceRule.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddCounterRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddPrefixRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\AddSuffixRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ControlzEx.xml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\LowercaseAllAndRemoveAllSpacesRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\PascalCaseRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\bin\Debug\ReplaceRule.pdb
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddCounterUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddPrefixUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddSuffixUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ChangeExtensionUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\EditRuleUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ListOfRuleUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LoadPresetUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LowercaseAllAndRemoveAllSpacesUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PascalCaseUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PreviewUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\RemoveAllSpacesUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ReplaceUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\SavePresetUC.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project_MarkupCompile.cache
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project_MarkupCompile.lref
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddCounterUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddPrefixUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\AddSuffixUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ChangeExtensionUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\EditRuleUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ListOfRuleUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LoadPresetUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\LowercaseAllAndRemoveAllSpacesUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PascalCaseUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\PreviewUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\RemoveAllSpacesUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\ReplaceUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\SavePresetUC.baml
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.g.resources
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.dll
+C:\Users\ADMIN\Downloads\Project\GUI_Project\GUI01_BatchRename_Project\obj\Debug\GUI01_BatchRename_Project.pdb

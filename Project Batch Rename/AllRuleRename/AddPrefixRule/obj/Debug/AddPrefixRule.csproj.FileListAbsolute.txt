@@ -1,0 +1,18 @@
+D:\Project năm 2 hk1\AllRuleRename\AddPrefixRule\bin\Debug\AddPrefixRule.dll
+D:\Project năm 2 hk1\AllRuleRename\AddPrefixRule\bin\Debug\AddPrefixRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\AddPrefixRule\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\AllRuleRename\AddPrefixRule\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\AllRuleRename\AddPrefixRule\obj\Debug\AddPrefixRule.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\AllRuleRename\AddPrefixRule\obj\Debug\AddPrefixRule.dll
+D:\Project năm 2 hk1\AllRuleRename\AddPrefixRule\obj\Debug\AddPrefixRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\AddPrefixRule\obj\Debug\AddPrefixRule.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\AllRuleRename\AddPrefixRule\obj\Debug\AddPrefixRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddPrefixRule\bin\Debug\AddPrefixRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddPrefixRule\bin\Debug\AddPrefixRule.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddPrefixRule\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddPrefixRule\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddPrefixRule\obj\Debug\AddPrefixRule.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddPrefixRule\obj\Debug\AddPrefixRule.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddPrefixRule\obj\Debug\AddPrefixRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddPrefixRule\obj\Debug\AddPrefixRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddPrefixRule\obj\Debug\AddPrefixRule.pdb

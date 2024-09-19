@@ -1,0 +1,18 @@
+D:\Project năm 2 hk1\AllRuleRename\RemoveAllSpacesRule\bin\Debug\RemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\AllRuleRename\RemoveAllSpacesRule\bin\Debug\RemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\RemoveAllSpacesRule\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\AllRuleRename\RemoveAllSpacesRule\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\AllRuleRename\RemoveAllSpacesRule\obj\Debug\RemoveAllSpacesRule.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\AllRuleRename\RemoveAllSpacesRule\obj\Debug\RemoveAllSpacesRule.dll
+D:\Project năm 2 hk1\AllRuleRename\RemoveAllSpacesRule\obj\Debug\RemoveAllSpacesRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\RemoveAllSpacesRule\obj\Debug\RemoveAllSpacesRule.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\AllRuleRename\RemoveAllSpacesRule\obj\Debug\RemoveAllSpacesRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\RemoveAllSpacesRule\bin\Debug\RemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\RemoveAllSpacesRule\bin\Debug\RemoveAllSpacesRule.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\RemoveAllSpacesRule\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\RemoveAllSpacesRule\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\RemoveAllSpacesRule\obj\Debug\RemoveAllSpacesRule.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\RemoveAllSpacesRule\obj\Debug\RemoveAllSpacesRule.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\RemoveAllSpacesRule\obj\Debug\RemoveAllSpacesRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\RemoveAllSpacesRule\obj\Debug\RemoveAllSpacesRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\RemoveAllSpacesRule\obj\Debug\RemoveAllSpacesRule.pdb

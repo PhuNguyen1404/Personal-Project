@@ -1,0 +1,27 @@
+D:\Project năm 2 hk1\AllRuleRename\ReplaceRule\bin\Debug\ReplaceRule.dll
+D:\Project năm 2 hk1\AllRuleRename\ReplaceRule\bin\Debug\ReplaceRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\ReplaceRule\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\AllRuleRename\ReplaceRule\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.dll
+D:\Project năm 2 hk1\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\AllRuleRename\ReplaceRule\bin\Debug\ReplaceRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\AllRuleRename\ReplaceRule\bin\Debug\ReplaceRule.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\AllRuleRename\ReplaceRule\bin\Debug\IContract.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\AllRuleRename\ReplaceRule\bin\Debug\IContract.pdb
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.dll
+C:\Users\ASUS\OneDrive\Máy tính\ChuaSuaButton\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ReplaceRule\bin\Debug\ReplaceRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ReplaceRule\bin\Debug\ReplaceRule.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ReplaceRule\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ReplaceRule\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ReplaceRule\obj\Debug\ReplaceRule.pdb

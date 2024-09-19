@@ -1,0 +1,18 @@
+D:\Project năm 2 hk1\AllRuleRename\ChangeExtensionRule\bin\Debug\ChangeExtensionRule.dll
+D:\Project năm 2 hk1\AllRuleRename\ChangeExtensionRule\bin\Debug\ChangeExtensionRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\ChangeExtensionRule\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\AllRuleRename\ChangeExtensionRule\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\AllRuleRename\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\AllRuleRename\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.dll
+D:\Project năm 2 hk1\AllRuleRename\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\AllRuleRename\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ChangeExtensionRule\bin\Debug\ChangeExtensionRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ChangeExtensionRule\bin\Debug\ChangeExtensionRule.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ChangeExtensionRule\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ChangeExtensionRule\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\ChangeExtensionRule\obj\Debug\ChangeExtensionRule.pdb

@@ -1,0 +1,18 @@
+D:\Project năm 2 hk1\AllRuleRename\AddSuffixRule\bin\Debug\AddSuffixRule.dll
+D:\Project năm 2 hk1\AllRuleRename\AddSuffixRule\bin\Debug\AddSuffixRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\AddSuffixRule\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\AllRuleRename\AddSuffixRule\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\AllRuleRename\AddSuffixRule\obj\Debug\AddSuffixRule.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\AllRuleRename\AddSuffixRule\obj\Debug\AddSuffixRule.dll
+D:\Project năm 2 hk1\AllRuleRename\AddSuffixRule\obj\Debug\AddSuffixRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\AddSuffixRule\obj\Debug\AddSuffixRule.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\AllRuleRename\AddSuffixRule\obj\Debug\AddSuffixRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddSuffixRule\bin\Debug\AddSuffixRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddSuffixRule\bin\Debug\AddSuffixRule.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddSuffixRule\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddSuffixRule\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddSuffixRule\obj\Debug\AddSuffixRule.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddSuffixRule\obj\Debug\AddSuffixRule.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddSuffixRule\obj\Debug\AddSuffixRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddSuffixRule\obj\Debug\AddSuffixRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\AddSuffixRule\obj\Debug\AddSuffixRule.pdb

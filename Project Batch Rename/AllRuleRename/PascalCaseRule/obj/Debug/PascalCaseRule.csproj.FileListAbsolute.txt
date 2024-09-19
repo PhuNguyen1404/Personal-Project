@@ -1,0 +1,18 @@
+D:\Project năm 2 hk1\AllRuleRename\PascalCaseRule\bin\Debug\PascalCaseRule.dll
+D:\Project năm 2 hk1\AllRuleRename\PascalCaseRule\bin\Debug\PascalCaseRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\PascalCaseRule\bin\Debug\IContract.dll
+D:\Project năm 2 hk1\AllRuleRename\PascalCaseRule\bin\Debug\IContract.pdb
+D:\Project năm 2 hk1\AllRuleRename\PascalCaseRule\obj\Debug\PascalCaseRule.csproj.AssemblyReference.cache
+D:\Project năm 2 hk1\AllRuleRename\PascalCaseRule\obj\Debug\PascalCaseRule.csproj.CoreCompileInputs.cache
+D:\Project năm 2 hk1\AllRuleRename\PascalCaseRule\obj\Debug\PascalCaseRule.dll
+D:\Project năm 2 hk1\AllRuleRename\PascalCaseRule\obj\Debug\PascalCaseRule.pdb
+D:\Project năm 2 hk1\AllRuleRename\PascalCaseRule\obj\Debug\PascalCaseRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\PascalCaseRule\bin\Debug\PascalCaseRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\PascalCaseRule\bin\Debug\PascalCaseRule.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\PascalCaseRule\bin\Debug\IContract.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\PascalCaseRule\bin\Debug\IContract.pdb
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\PascalCaseRule\obj\Debug\PascalCaseRule.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\PascalCaseRule\obj\Debug\PascalCaseRule.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\PascalCaseRule\obj\Debug\PascalCaseRule.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\PascalCaseRule\obj\Debug\PascalCaseRule.dll
+C:\Users\ADMIN\Downloads\Project\AllRuleRename\PascalCaseRule\obj\Debug\PascalCaseRule.pdb
