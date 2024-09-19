@@ -1,0 +1,38 @@
+.jumbotron {
+    background-image: url('images/bg.jpg');
+    background-size: auto;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jumbotron .container h1,.jumbotron .container p {
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+.product {
+    height: 500px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+}
+
+.productImg {
+    height: 300px;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.product-buttons {
+    position: absolute;
+    bottom: 5px;
+}
+
