@@ -2,7 +2,7 @@
 include 'include/header.php';
 include "classes/DB.php";
 
-$db = new DB("localhost", "root", "", "2023_final_exam");
+$db = new DB("localhost", "root", "", "database");
 $conn = $db->getConnection();
 
 
