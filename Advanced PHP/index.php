@@ -7,7 +7,7 @@ define("ROOT", substr($_SERVER['PHP_SELF'], 0, -9));
 
 include "core/db.php";
 DB::createInstance();
-DB::connect("localhost", "root", "", "2023_itec_blog");
+DB::connect("localhost", "root", "", "database");
 
 include "Controller/Controller.php";
 include "Controller/HomePage.php";
