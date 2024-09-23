@@ -20,7 +20,7 @@ bool performCeaserCipher(string &content, bool encrypted)
     return true;
 }
 
-bool encryptedFile(const string &filename, bool encrypted)
+bool encryptFile(const string& filename, bool encrypted)
 {
     // open the file
     ifstream inFile(filename);
@@ -50,4 +50,5 @@ bool encryptedFile(const string &filename, bool encrypted)
 
         return true;
     }
+
 }
