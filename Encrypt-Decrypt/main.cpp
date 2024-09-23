@@ -20,7 +20,7 @@ int main()
     {
         if (encryptFile(filename, true))
         {
-            cout << "Encrypt " << filename << "successfully" << endl;
+            cout << "Encrypt " << filename << " successfully" << endl;
         }
         else
         {
